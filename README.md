@@ -32,6 +32,7 @@ Publish the website in the given URL.
 ## PROGRAM :
 
 ## OUTPUT:
+![image](https://github.com/sreeniveditaa/serversideprocessing/assets/147473268/7d09233b-fe95-4078-bf56-96487614e0ad)
 
 ### Home Page:
 
