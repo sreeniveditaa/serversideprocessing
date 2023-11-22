@@ -151,7 +151,8 @@ urlpatterns = [
 ] 
 ```
 ## OUTPUT:
-![image](https://github.com/sreeniveditaa/serversideprocessing/assets/147473268/7d09233b-fe95-4078-bf56-96487614e0ad)
+![Screenshot 2023-11-08 151300](https://github.com/sreeniveditaa/serversideprocessing/assets/147473268/86fcaaf4-5e14-49eb-8803-d3fd72710dea)
+
 
 
 ## Result:
